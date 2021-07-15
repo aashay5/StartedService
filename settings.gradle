@@ -1,0 +1,2 @@
+rootProject.name = "StartedService"
+include ':app'
